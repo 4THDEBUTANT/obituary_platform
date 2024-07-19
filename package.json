@@ -1,0 +1,14 @@
+{
+  "name": "obituary_platform",
+  "version": "0.0.0",
+  "description": "obituary_platform",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
